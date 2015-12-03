@@ -5,4 +5,4 @@ Selanjutnya dilanjutkan oleh <b>Said</b>
 <i>lanjut lagi oleh Purnomo hehehe</i>
 <br/>lanjutan sabar</p>
 
-<h1> Ini dar i mar atul celalu cetia celamalamanya</h1>
+<h1> Ini dari mar atul celalu cetia celamalamanya</h1>
