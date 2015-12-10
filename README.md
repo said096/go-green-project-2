@@ -1,1 +1,2 @@
-<h1>tes from PURNOMO</h1>
+# Kelompok Praktik Cloud Terapan
+1. Purnomo Jati Nugroho
