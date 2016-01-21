@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h1>Anggota Project Node.js : </h1>
+<h1>Anggota Project Node.js : </h1><hr/>
 <ol>
 <li>Said (135610096/Ketua)</li>
 <li>Purnomo Jati Nugroho (135610098)</li>
