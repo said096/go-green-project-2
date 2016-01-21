@@ -1,18 +1,39 @@
 <!DOCTYPE html>
 <html>
 <body>
+<table border="1"><tr><td colspan="3" aligen="left">
 <h1>Anggota Project Node.js : </h1>
-<ol>
-<li>Said (135610096/Ketua)</li>
-<li>Purnomo Jati Nugroho (135610098)</li>
-<li>Sabar Arifin (135610058)</li>
-<li>Sriwani P. Lemba ( 135610126)</li>
-<li>Mar'atul Chotimah (135610077)</li>
-<li>Imam Taufiq (135610103)</li>
-<li>Helarius Teki (135610121)</li>
-<li>Yogo Pambudi (135610139)</li>
-<li>Vendo Sembiring (135610151)</li>
-<li>Obet Edom Martinus (135610087)</li>
-</ol>
+</td></tr>
+<tr><td>
+Said </td><td>(135610096/Ketua)</td><td>said96
+</td></tr>
+<tr><td>
+Purnomo Jati Nugroho </td><td>(135610098)</td><td>Purnomo Jati Nugroho
+</td></tr>
+<tr><td>
+Sabar Arifin </td><td>(135610058)</td><td>sabar arifin
+</td></tr>
+<tr><td>
+Sriwani P. Lemba </td><td>( 135610126)</td><td>sriwani
+</td></tr>
+<tr><td>
+Mar'atul Chotimah </td><td>(135610077)</td><td>maratul077
+</td></tr>
+<tr><td>
+Imam Taufiq </td><td>(135610103)</td><td>
+</td></tr>
+<tr><td>
+Helarius Teki </td><td>(135610121)</td><td>helariustekianggoro
+helariustekianggoro
+</td></tr>
+<tr><td>
+Yogo Pambudi </td><td>(135610139)</td><td>YogoPambudi
+</td></tr>
+<tr><td>
+Vendo Sembiring </td><td>(135610151)</td><td>
+</td></tr>
+<tr><td>
+Obet Edom Martinus </td><td>(135610087)</td><td>
+</tr></table>
 </body>
 </html>
